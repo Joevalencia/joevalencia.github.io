@@ -71,6 +71,8 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
+theme: jekyll-cv-theme
+
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
